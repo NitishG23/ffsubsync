@@ -14,6 +14,7 @@ FFsubsync
 Language-agnostic automatic synchronization of subtitles with video, so that
 subtitles are aligned to the correct starting point within the video.
 
+
 Turn this:                       |  Into this:
 :-------------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/smacke/ffsubsync/master/resources/img/tearing-me-apart-wrong.gif)  |  ![](https://raw.githubusercontent.com/smacke/ffsubsync/master/resources/img/tearing-me-apart-correct.gif)
